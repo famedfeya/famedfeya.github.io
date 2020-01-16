@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://famedfeya.github.io/about/</loc>
+    <lastmod>2020-01-02T00:45:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://famedfeya.github.io/</loc>
+    <lastmod>2020-01-02T00:45:01+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://famedfeya.github.io/blog/</loc>
     <lastmod>2020-01-02T00:31:45+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://famedfeya.github.io/blog/new-year-new-things/</loc>
-    <lastmod>2020-01-02T00:31:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://famedfeya.github.io/</loc>
     <lastmod>2020-01-02T00:31:45+01:00</lastmod>
   </url>
   
