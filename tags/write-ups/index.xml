@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Write Ups on Purple Cyber Sec</title>
+    <link>https://feisty.one/tags/write-ups/</link>
+    <description>Recent content in Write Ups on Purple Cyber Sec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2020, all rights reserved.</copyright>
+    <lastBuildDate>Fri, 17 Jan 2020 22:26:06 +0100</lastBuildDate>
+    
+	<atom:link href="https://feisty.one/tags/write-ups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KringleCon 2019 Review</title>
+      <link>https://feisty.one/blog/kringlecon-2019-review/</link>
+      <pubDate>Fri, 17 Jan 2020 22:26:06 +0100</pubDate>
+      
+      <guid>https://feisty.one/blog/kringlecon-2019-review/</guid>
+      <description>Stay tuned ..</description>
+    </item>
+    
+  </channel>
+</rss>
