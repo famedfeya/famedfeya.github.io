@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://feisty.one/blog/new-year-new-things/</loc>
+    <lastmod>2020-01-02T00:31:45+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://feisty.one/about/</loc>
     <lastmod>2020-01-02T00:45:01+01:00</lastmod>
   </url>
@@ -34,11 +39,6 @@
   
   <url>
     <loc>https://feisty.one/categories/lifestyle/</loc>
-    <lastmod>2020-01-02T00:31:45+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://feisty.one/blog/new-year-new-things/</loc>
     <lastmod>2020-01-02T00:31:45+01:00</lastmod>
   </url>
   
