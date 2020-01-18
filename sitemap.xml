@@ -9,17 +9,7 @@
   
   <url>
     <loc>https://feisty.one/blog/</loc>
-    <lastmod>2020-01-17T22:27:23+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://feisty.one/</loc>
-    <lastmod>2020-01-17T22:27:23+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://feisty.one/blog/women-unite-over-ctf-2019-review/</loc>
-    <lastmod>2020-01-17T22:27:23+01:00</lastmod>
+    <lastmod>2020-01-17T22:26:06+01:00</lastmod>
   </url>
   
   <url>
@@ -39,6 +29,11 @@
   
   <url>
     <loc>https://feisty.one/categories/lifestyle/</loc>
+    <lastmod>2020-01-17T22:26:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://feisty.one/</loc>
     <lastmod>2020-01-17T22:26:06+01:00</lastmod>
   </url>
   
@@ -75,6 +70,11 @@
   <url>
     <loc>https://feisty.one/tags/threat-hunting/</loc>
     <lastmod>2020-01-02T00:31:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://feisty.one/blog/women-unite-over-ctf-2019-review/</loc>
+    <lastmod>2019-11-04T22:27:23+01:00</lastmod>
   </url>
   
 </urlset>

@@ -6,7 +6,7 @@
     <description>Recent content in Blogs on Purple Cyber Sec</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, all rights reserved.</copyright>
-    <lastBuildDate>Fri, 17 Jan 2020 22:27:23 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2020 22:26:06 +0100</lastBuildDate>
     
 	<atom:link href="https://feisty.one/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,20 +22,20 @@ Network Engineer | Sr. Network Engineer | Cyber Security Engineer (TAC) | Sr. Cy
     </item>
     
     <item>
-      <title>Women Unite Over CTF 2019 Review</title>
-      <link>https://feisty.one/blog/women-unite-over-ctf-2019-review/</link>
-      <pubDate>Fri, 17 Jan 2020 22:27:23 +0100</pubDate>
-      
-      <guid>https://feisty.one/blog/women-unite-over-ctf-2019-review/</guid>
-      <description>Stay tuned ..</description>
-    </item>
-    
-    <item>
       <title>KringleCon 2019 Review</title>
       <link>https://feisty.one/blog/kringlecon-2019-review/</link>
       <pubDate>Fri, 17 Jan 2020 22:26:06 +0100</pubDate>
       
       <guid>https://feisty.one/blog/kringlecon-2019-review/</guid>
+      <description>Stay tuned ..</description>
+    </item>
+    
+    <item>
+      <title>Women Unite Over CTF 2019 Review</title>
+      <link>https://feisty.one/blog/women-unite-over-ctf-2019-review/</link>
+      <pubDate>Mon, 04 Nov 2019 22:27:23 +0100</pubDate>
+      
+      <guid>https://feisty.one/blog/women-unite-over-ctf-2019-review/</guid>
       <description>Stay tuned ..</description>
     </item>
     
