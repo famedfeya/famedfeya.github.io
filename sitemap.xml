@@ -3,13 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://feisty.one/blog/new-year-new-things/</loc>
-    <lastmod>2020-01-02T00:31:45+01:00</lastmod>
+    <loc>https://feisty.one/blog/</loc>
+    <lastmod>2020-01-25T00:17:08+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://feisty.one/blog/</loc>
-    <lastmod>2020-01-20T09:08:54+01:00</lastmod>
+    <loc>https://feisty.one/categories/</loc>
+    <lastmod>2020-01-25T00:17:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://feisty.one/tags/certifications/</loc>
+    <lastmod>2020-01-25T00:17:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://feisty.one/categories/lifestyle/</loc>
+    <lastmod>2020-01-25T00:17:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://feisty.one/blog/passed-the-aws-certified-solutions-architect-associate-saa-c01-exam/</loc>
+    <lastmod>2020-01-25T00:17:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://feisty.one/</loc>
+    <lastmod>2020-01-25T00:17:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://feisty.one/tags/</loc>
+    <lastmod>2020-01-25T00:17:08+01:00</lastmod>
   </url>
   
   <url>
@@ -18,18 +43,8 @@
   </url>
   
   <url>
-    <loc>https://feisty.one/</loc>
-    <lastmod>2020-01-20T09:08:54+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://feisty.one/archive/</loc>
     <lastmod>2020-01-18T21:12:47+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://feisty.one/categories/</loc>
-    <lastmod>2020-01-17T22:26:06+01:00</lastmod>
   </url>
   
   <url>
@@ -48,17 +63,7 @@
   </url>
   
   <url>
-    <loc>https://feisty.one/categories/lifestyle/</loc>
-    <lastmod>2020-01-17T22:26:06+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://feisty.one/tags/reviews/</loc>
-    <lastmod>2020-01-17T22:26:06+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://feisty.one/tags/</loc>
     <lastmod>2020-01-17T22:26:06+01:00</lastmod>
   </url>
   
@@ -74,6 +79,11 @@
   
   <url>
     <loc>https://feisty.one/tags/career/</loc>
+    <lastmod>2020-01-02T00:31:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://feisty.one/blog/new-year-new-things/</loc>
     <lastmod>2020-01-02T00:31:45+01:00</lastmod>
   </url>
   

@@ -6,19 +6,18 @@
     <description>Recent content on Purple Cyber Sec</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, All rights reserved.</copyright>
-    <lastBuildDate>Mon, 20 Jan 2020 09:08:54 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2020 00:17:08 +0100</lastBuildDate>
     
 	<atom:link href="https://feisty.one/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>New Year, New Things</title>
-      <link>https://feisty.one/blog/new-year-new-things/</link>
-      <pubDate>Thu, 02 Jan 2020 00:31:45 +0100</pubDate>
+      <title>Passed the AWS Certified Solutions Architect Associate SAA-C01 Exam</title>
+      <link>https://feisty.one/blog/passed-the-aws-certified-solutions-architect-associate-saa-c01-exam/</link>
+      <pubDate>Sat, 25 Jan 2020 00:17:08 +0100</pubDate>
       
-      <guid>https://feisty.one/blog/new-year-new-things/</guid>
-      <description>With a brand New Year, comes new possibilities. Am super happy to be transitioning to the role of a Threat Hunter at a great company in Feb. Am happy with the path my career has taken so far:
-Network Engineer | Sr. Network Engineer | Cyber Security Engineer (TAC) | Sr. Cyber Security Engineer (TAC) | Threat Specialist (TAC) | Information Security Engineer | Threat Hunter It has not been an easy ride but has definitely been worth it.</description>
+      <guid>https://feisty.one/blog/passed-the-aws-certified-solutions-architect-associate-saa-c01-exam/</guid>
+      <description>Today was my second attempt on the AWS Certified Solutions Architect Associate exam. My initial attempt was about 6 months ago. I was in a hurry to get it over and done with and despite the fact that I did not feel ready, I went ahead and sat the exam. I found the exam to be rather tough as I do not work with AWS day in day out but despite that, I was disappointed to fail the exam by 2 or 20 points.</description>
     </item>
     
     <item>
@@ -55,6 +54,16 @@ Network Engineer | Sr. Network Engineer | Cyber Security Engineer (TAC) | Sr. Cy
       
       <guid>https://feisty.one/about/</guid>
       <description>This is a placeholder for my about page.</description>
+    </item>
+    
+    <item>
+      <title>New Year, New Things</title>
+      <link>https://feisty.one/blog/new-year-new-things/</link>
+      <pubDate>Thu, 02 Jan 2020 00:31:45 +0100</pubDate>
+      
+      <guid>https://feisty.one/blog/new-year-new-things/</guid>
+      <description>With a brand New Year, comes new possibilities. Am super happy to be transitioning to the role of a Threat Hunter at a great company in Feb. Am happy with the path my career has taken so far:
+Network Engineer | Sr. Network Engineer | Cyber Security Engineer (TAC) | Sr. Cyber Security Engineer (TAC) | Threat Specialist (TAC) | Information Security Engineer | Threat Hunter It has not been an easy ride but has definitely been worth it.</description>
     </item>
     
     <item>
