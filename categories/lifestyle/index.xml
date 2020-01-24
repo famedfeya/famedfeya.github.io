@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lifestyle on Purple Cyber Sec</title>
+    <title>LifeStyle on Purple Cyber Sec</title>
     <link>https://feisty.one/categories/lifestyle/</link>
-    <description>Recent content in Lifestyle on Purple Cyber Sec</description>
+    <description>Recent content in LifeStyle on Purple Cyber Sec</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2020, All rights reserved.</copyright>
-    <lastBuildDate>Sat, 25 Jan 2020 00:17:08 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2020 22:26:06 +0100</lastBuildDate>
     
 	<atom:link href="https://feisty.one/categories/lifestyle/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Passed the AWS Certified Solutions Architect Associate SAA-C01 Exam</title>
-      <link>https://feisty.one/blog/passed-the-aws-certified-solutions-architect-associate-saa-c01-exam/</link>
-      <pubDate>Sat, 25 Jan 2020 00:17:08 +0100</pubDate>
-      
-      <guid>https://feisty.one/blog/passed-the-aws-certified-solutions-architect-associate-saa-c01-exam/</guid>
-      <description>Today was my second attempt on the AWS Certified Solutions Architect Associate exam. My initial attempt was about 6 months ago. I was in a hurry to get it over and done with and despite the fact that I did not feel ready, I went ahead and sat the exam. I found the exam to be rather tough as I do not work with AWS day in day out but despite that, I was disappointed to fail the exam by 2 or 20 points.</description>
-    </item>
     
     <item>
       <title>KringleCon 2019 Review</title>
